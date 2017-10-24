@@ -1,0 +1,92 @@
+DESAFIO LATAM
+
+EJERCICIOS DE CSS
+
+CONSTRUIR LA SIGUIENTE
+PÁGINA
+
+SE PIDE
+•
+
+Crear un diseño estático considerando una página de 960
+pixeles de ancho
+
+•
+
+Debe haber un margen auto de cada lado de la página y
+80 en el superior
+
+•
+
+No puede quedar ninguna etiqueta de estilo inline en el
+HTML
+
+•
+
+El último párrafo debe quedar alineado a la derecha
+
+EJERCICIO 2
+
+SE PIDE
+
+•
+
+Utilizando floats y tamaños en % crear 4 columnas
+
+•
+
+Utilizando border-box y padding separar las
+columnas
+
+EJERCICIO 3
+
+SE PIDE
+•
+
+Hacer un menú que te siga, de fondo debe ir
+pintado,
+
+•
+
+para hacer el menú se debe ocupar la etiqueta
+semántica nav
+
+•
+
+Se debe corregir el padding que agrega el ul
+
+EJERCICIO 4
+
+SE PIDE
+
+•
+
+Traspasar el diseño a fluido.
+
+IMÁGENES RESPONSIVE
+
+Adaptar el tamaño máximo de las imágenes al ancho
+de la columna
+
+SE PIDE
+•
+
+Poner imágenes en las columnas y que se adapten
+automáticamente al ancho de la columna
+
+•
+
+Hacer un clearfix para el contenido que viene
+debajo de los floats
+
+•
+
+Agregar un banner con texto explicativo SOBRE
+cada imagen
+
+IMPLEMENTAR UNA GRILLA
+
+De 6 columnas
+gutter de 10px
+
+

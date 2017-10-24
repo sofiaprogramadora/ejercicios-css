@@ -1,0 +1,41 @@
+.col-1{
+	width: 16.6666666667%;
+	box-sizing: border-box;
+    padding: 10px;
+    float: left;
+}
+
+.col-2{
+	width: 33.3333333334%;
+	box-sizing: border-box;
+    padding: 10px;
+    float: left;
+}
+
+.col-3{
+	width: 50.0000000001%;
+	box-sizing: border-box;
+    padding: 10px;
+    float: left;
+}
+
+.col-4{
+	width: 66.6666666668%;
+	box-sizing: border-box;
+    padding: 10px;
+    float: left;
+}
+
+.col-5{
+	width: 83.3333333335%;
+	box-sizing: border-box;
+    padding: 10px;
+    float: left;
+}
+
+.col-6{
+	width: 100%;
+	box-sizing: border-box;
+    padding: 10px;
+    float: left;
+}
